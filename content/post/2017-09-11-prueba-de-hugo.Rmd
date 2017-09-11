@@ -1,0 +1,26 @@
+---
+title: "Prueba de HUGO"
+author: "Sergio Uribe"
+date: '2017-09-11'
+slug: prueba-de-hugo
+tags: R Markdown
+categories: R
+---
+
+# Mi primer post
+Vamos a ver como sale este nuevo post
+
+```{r}
+x <- 1
+```
+
+ese era x, ahora y
+```{r}
+y <- 30
+```
+ahora la suma
+```{r}
+x + y
+```
+
+
